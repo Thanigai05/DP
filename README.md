@@ -45,7 +45,9 @@ Steps in simple:
     - If this Z is bigger than the current best Z, update the best value.
     - After checking all pairs, return the best Z and the values of x1​ and x2​ that gave it.
 
-============================================================================================================================================================
+================================================================================================================================
+
+
 
                                                  Algorithm for Solving Cargo Loading using Dynamic Programming
 
@@ -79,7 +81,7 @@ Step 7: Return the Best Solution
 
     After checking all possible combinations, return the maximum revenue and the corresponding items that were selected to achieve that revenue.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 Steps in Simple Terms:
 
     - Start with an empty table to store the maximum revenue for each possible weight capacity.
@@ -89,4 +91,4 @@ Steps in Simple Terms:
     - If the calculated revenue is higher than the previous maximum, update the table.
     - Once all combinations have been checked, return the maximum revenue and the items selected to achieve it.
 
-=============================================================================================================================================================
+=======================================================================================================================================
