@@ -45,7 +45,7 @@ Steps in simple:
     - If this Z is bigger than the current best Z, update the best value.
     - After checking all pairs, return the best Z and the values of x1​ and x2​ that gave it.
 
-================================================================================================================================
+============================================================================================
 
 
 
@@ -91,4 +91,4 @@ Steps in Simple Terms:
     - If the calculated revenue is higher than the previous maximum, update the table.
     - Once all combinations have been checked, return the maximum revenue and the items selected to achieve it.
 
-=======================================================================================================================================
+=====================================================================================================
