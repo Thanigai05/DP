@@ -37,6 +37,7 @@ Step 7: Return the Best Solution
 --------------------------------------------------------------------------------------------------------------------------------
 
 Steps in simple:
+
     - Start with an empty table to store possible Z values.
     - Loop through every possible x1​ and x2​ within their limits.
     - For each pair of x1​ and x2​, check if it meets the constraints.
